@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 180" fill="none">
+  <rect width="280" height="180" rx="8" fill="#F4F1EC"/>
+  <circle cx="140" cy="90" r="45" stroke="#2F4A4D" stroke-width="2" fill="none"/>
+  <circle cx="140" cy="90" r="30" stroke="#2F4A4D" stroke-width="1.5" fill="none"/>
+  <circle cx="140" cy="90" r="15" stroke="#2F4A4D" stroke-width="1" fill="none"/>
+  <circle cx="140" cy="90" r="4" fill="#B89C7A"/>
+  <line x1="144" y1="86" x2="170" y2="60" stroke="#B89C7A" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <text x="172" y="58" font-family="sans-serif" font-size="10" fill="#B89C7A">99%</text>
+</svg>

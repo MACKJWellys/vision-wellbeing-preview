@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 180" fill="none">
+  <rect width="280" height="180" rx="8" fill="#F4F1EC"/>
+  <path d="M160 50 Q120 50 110 80 Q100 110 130 120 Q160 130 170 100 Q175 85 160 50" stroke="#2F4A4D" stroke-width="2" fill="none"/>
+  <circle cx="155" cy="55" r="20" fill="#F4F1EC" stroke="#B89C7A" stroke-width="1.5"/>
+  <text x="145" y="70" font-family="serif" font-size="16" fill="#2F4A4D" opacity="0.5">z</text>
+  <text x="170" y="55" font-family="serif" font-size="12" fill="#2F4A4D" opacity="0.3">z</text>
+  <text x="185" y="42" font-family="serif" font-size="10" fill="#2F4A4D" opacity="0.2">z</text>
+</svg>
